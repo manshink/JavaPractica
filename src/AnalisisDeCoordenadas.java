@@ -35,6 +35,7 @@ public class AnalisisDeCoordenadas {
 		List <Double> distancias = new ArrayList<>();
 		boolean hayEnEjes = false;
 		
+		// Paso 2. Crear un loop para escribir los puntos
 		while(true) {
 			
 			int x = sc.nextInt();
